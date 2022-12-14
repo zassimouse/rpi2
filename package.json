@@ -28,12 +28,7 @@
     "eject": "react-scripts eject",
     "script": "npm run deploy"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
-  },
+
   "browserslist": {
     "production": [
       ">0.2%",
