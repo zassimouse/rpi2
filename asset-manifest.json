@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rpi2/static/css/main.fe16fb61.css",
+    "main.js": "/rpi2/static/js/main.f9d18c59.js",
+    "static/media/avatar.jpg": "/rpi2/static/media/avatar.1f9ab0941841d7e864bd.jpg",
+    "static/media/1.jpg": "/rpi2/static/media/1.d52b690a378468be3733.jpg",
+    "static/media/3.jpg": "/rpi2/static/media/3.a658cc836a00eb88c7f5.jpg",
+    "static/media/bootstrap-icons.woff?": "/rpi2/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/2.jpg": "/rpi2/static/media/2.ad8b5f63c4a495edb804.jpg",
+    "static/media/bg.jpg": "/rpi2/static/media/bg.21d844a638f1cbcde049.jpg",
+    "static/media/Rubik-Bold.ttf": "/rpi2/static/media/Rubik-Bold.12b9f128a901a8977a57.ttf",
+    "static/media/1.JPG": "/rpi2/static/media/1.a5f01a9d06ef47b85140.JPG",
+    "static/media/bootstrap-icons.woff2?": "/rpi2/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/4.jpg": "/rpi2/static/media/4.1f9ab0941841d7e864bd.jpg",
+    "index.html": "/rpi2/index.html",
+    "main.fe16fb61.css.map": "/rpi2/static/css/main.fe16fb61.css.map",
+    "main.f9d18c59.js.map": "/rpi2/static/js/main.f9d18c59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe16fb61.css",
+    "static/js/main.f9d18c59.js"
+  ]
+}
