@@ -1,0 +1,26 @@
+.person-card {
+  text-align: center !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  max-width: 40rem;
+  width: 80%;
+}
+
+.person-card p {
+  margin: 0;
+}
+
+.person-card .avatar {
+  object-fit: contain;
+  max-height: 24rem;
+}
+
+.person-card .description {
+  color: black;
+  line-height: 1.5rem;
+  font-size: 1.2rem;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 5;
+  overflow: hidden;
+}

@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Rubik';
+  src: url("resources/Rubik-Bold.ttf");
+  font-weight: bold;
+}
+
+/* Extra small devices (320px and down) */
+@media only screen and (max-width: 320px) {
+  html{
+    font-size: 9px!important;
+  }
+}
+
+/* Small devices (320px and up) */
+@media only screen and (min-width: 320px) {
+  html{
+    font-size: 10px!important;
+  }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  html{
+    font-size: 12px!important;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  html{
+    font-size: 13px!important;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  html{
+    font-size: 14px!important;
+  }
+}
+
+@media only screen and (min-width: 1920px) {
+  html{
+    font-size: 18px!important;
+  }
+}
+
+body{
+  margin: 0;
+}
